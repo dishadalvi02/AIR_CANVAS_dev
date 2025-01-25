@@ -24,4 +24,11 @@ The **AIR CANVAS** project aims to create a hand gesture-based writing and recog
   - Pre-trained DenseNet201 for comparative analysis
 
 ---
+## Results
+![image alt](https://github.com/dishadalvi02/AIR_CANVAS_dev/blob/05c8198604c9102b32fefc45f0c3efb4418c78d3/results/result1.png)
 
+![image alt](https://github.com/dishadalvi02/AIR_CANVAS_dev/blob/05c8198604c9102b32fefc45f0c3efb4418c78d3/results/result2.png)
+
+![image alt](https://github.com/dishadalvi02/AIR_CANVAS_dev/blob/05c8198604c9102b32fefc45f0c3efb4418c78d3/results/result4.png)
+
+![image alt](https://github.com/dishadalvi02/AIR_CANVAS_dev/blob/05c8198604c9102b32fefc45f0c3efb4418c78d3/results/result3.png)
